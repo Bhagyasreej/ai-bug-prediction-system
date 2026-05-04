@@ -16,6 +16,7 @@ Software bugs are a major challenge in software development:
 * QA teams cannot test every possible scenario  
 
 This leads to:
+
 * Poor user experience  
 * Increased maintenance costs  
 * Delays in product delivery  
@@ -23,10 +24,11 @@ This leads to:
 ### Motivation
 
 As a QA Automation Engineer, I have observed:
+
 * Repeated bugs in similar modules  
 * Time wasted testing low-risk areas  
 
-This inspired me to build an AI solution that can **predict high-risk areas** and help teams prioritize testing efforts.
+This inspired me to build an AI solution that can predict high-risk areas and help teams prioritize testing efforts.
 
 ---
 
@@ -39,19 +41,19 @@ This inspired me to build an AI solution that can **predict high-risk areas** an
 
 ### Workflow:
 
-1. Input data:
-   * Past bug reports  
-   * Test case results  
-   * Code changes  
+**Input data:**
+* Past bug reports  
+* Test case results  
+* Code changes  
 
-2. AI model:
-   * Analyzes patterns in historical data  
-   * Identifies modules with high bug probability  
+**AI model:**
+* Analyzes patterns in historical data  
+* Identifies modules with high bug probability  
 
-3. Output:
-   * High-risk modules  
-   * Medium-risk modules  
-   * Low-risk modules  
+**Output:**
+* High-risk modules  
+* Medium-risk modules  
+* Low-risk modules  
 
 This helps QA teams:
 * Focus on critical areas  
